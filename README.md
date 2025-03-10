@@ -1,4 +1,4 @@
-## Hi there! I'm Sténio Guimel 👋
+## Hi there! I'm Sténio Francisco 👋
 
 ### About me
 Passionate about transforming data into strategic insights! Currently enhancing my data analystics skills and developing hands-on projects to strengthen my portfolio.
