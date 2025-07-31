@@ -1,12 +1,12 @@
 ## 👋 Hi there! I'm Sténio Francisco  
 
-🎯 **Junior Reliability Data Analyst at Balflex Group**  
+🎯 **Reliability Data Analyst at Balflex Group**  
 📍 Guarda, Portugal | Passionate about Industrial Data, Asset Reliability & Manufacturing Performance
 
 ---
 
 ## 🧠 About Me  
-As a Junior Reliability Data Analyst at Balflex, I transform raw manufacturing data into actionable insights to **optimize equipment reliability, operational efficiency, and asset longevity**.  
+As a Reliability Data Analyst, I transform raw manufacturing data into actionable insights to **optimize equipment reliability, operational efficiency, and asset longevity**.  
 I combine **data science**, **technical metalwork knowledge**, and **process reliability concepts** to support strategic industrial decisions.
 
 🔧 I'm currently focused on:  
@@ -24,7 +24,7 @@ I combine **data science**, **technical metalwork knowledge**, and **process rel
 - Python (pandas, matplotlib, seaborn, numpy)  
 - SQL for industrial databases  
 - Google Sheets & Excel Automation  
-- Power BI (in training)  
+- Power BI  
 - Exploratory Data Analysis (EDA)  
 - Statistical modeling for downtime/root cause investigation
 
@@ -35,7 +35,7 @@ I combine **data science**, **technical metalwork knowledge**, and **process rel
 - MTBF / MTTR  
 - CMMS data usage  
 - Maintenance and production data reporting  
-- TPM (Total Productive Maintenance) — beginner level
+- TPM (Total Productive Maintenance) 
 
 **Technical Background**  
 - Experience in metalwork and mechanical operations  
