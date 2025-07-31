@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Sténio Francisco  
 
-🎯 **Reliability Data Analyst at Balflex Group**  
+🎯 **Reliability Data Analyst**  
 📍 Guarda, Portugal | Passionate about Industrial Data, Asset Reliability & Manufacturing Performance
 
 ---
