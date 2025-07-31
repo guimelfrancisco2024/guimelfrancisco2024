@@ -1,33 +1,79 @@
-## Hi there! I'm Sténio Francisco 👋
+## 👋 Hi there! I'm Sténio Francisco  
 
-### About me
-Passionate about transforming data into strategic insights! Currently enhancing my data analystics skills and developing hands-on projects to strengthen my portfolio.
+🎯 **Junior Reliability Data Analyst at Balflex Group**  
+📍 Guarda, Portugal | Passionate about Industrial Data, Asset Reliability & Manufacturing Performance
 
- ♦️Key Skills: SQL| Python| | R |Google Sheets| Tableau| |BigQuery
- 
-  ♦️ Interests: Data visualization, process analysis, and bussiness intelligence
+---
 
-### 🛠️ Technical Skills 
-Data Cleaning & transformation
+## 🧠 About Me  
+As a Junior Reliability Data Analyst at Balflex, I transform raw manufacturing data into actionable insights to **optimize equipment reliability, operational efficiency, and asset longevity**.  
+I combine **data science**, **technical metalwork knowledge**, and **process reliability concepts** to support strategic industrial decisions.
 
-Data Visualization & Storytelling
+🔧 I'm currently focused on:  
+- Performance analysis of industrial machinery  
+- Failure pattern detection & root cause analysis (RCA)  
+- Preventive maintenance strategies using data  
+- Dashboards for OEE and productivity metrics  
+- Bridging **technical field knowledge (metalwork)** with **data analytics**
 
-Dashboard Development (Tableau, Google Sheets)
+---
 
-SQL Queries & Database Management
+## 🧰 Technical & Industrial Toolset
 
-Business Intelligence & Data-Driven Decision Making
+**Data & Analytics**  
+- Python (pandas, matplotlib, seaborn, numpy)  
+- SQL for industrial databases  
+- Google Sheets & Excel Automation  
+- Power BI (in training)  
+- Exploratory Data Analysis (EDA)  
+- Statistical modeling for downtime/root cause investigation
 
-Exploratory Data Analysis (EDA)
+**Reliability & Manufacturing Concepts**  
+- RCM (Reliability-Centered Maintenance)  
+- RCA (Root Cause Analysis)  
+- OEE (Overall Equipment Effectiveness)  
+- MTBF / MTTR  
+- CMMS data usage  
+- Maintenance and production data reporting  
+- TPM (Total Productive Maintenance) — beginner level
 
-### 📫Let's Connect!
-📧 Email:stenfran34@gmail.com
+**Technical Background**  
+- Experience in metalwork and mechanical operations  
+- Manufacturing floor observation & data gathering  
+- Understanding of maintenance logs, shift reports, and operational inefficiencies
 
- 💼 www.linkedin.com/in/sténio-francisco-a9b26021a
+---
 
- 🌏Portfolio - Coming Soon!
+## 🛠️ Current Projects  
+- **Production Data Monitoring Dashboard** (Python + Matplotlib):  
+  Automating insights on shift productivity and machine performance.  
+- **Reliability Insights Report**:  
+  Building a reliability report based on machine failures, downtime, and trends.  
+- **RCM Readiness Dataset**:  
+  Cleaning and preparing data to apply RCM logic.
 
-"Data tells a story, I turn it into actionable insights"
+---
+
+## 🚀 Currently Learning  
+- Power BI for Industrial Dashboards  
+- Applied Reliability Engineering  
+- Process Risk Analysis (PHA/HAZOP)  
+- Predictive maintenance with Machine Learning  
+- Industrial time-series forecasting  
+
+---
+
+## 📫 Let's Connect  
+📧 Email: stenfran34@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/sténio-francisco-a9b26021a](https://www.linkedin.com/in/sténio-francisco-a9b26021a)  
+📁 Portfolio: *Coming soon - Reliability dashboards & failure analysis*
+
+---
+
+## 🗣️ Motto  
+**“Reliability is not just maintenance, it's strategy.”**  
+*My goal is to help industries run smarter, safer, and longer – with data*
+
 <!--
 **guimelfrancisco2024/guimelfrancisco2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
